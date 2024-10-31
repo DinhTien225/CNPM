@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 13 promax",
+    "price": 23000000,
+    "image": "https://res.cloudinary.com/dq5ajyj0q/image/upload/v1730294904/apple-iphone-13-pro-max-sierra-blue_dqwwsb.webp",
+    "category_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Iphone 15 ",
+    "price": 19690000,
+    "image": "https://res.cloudinary.com/dq5ajyj0q/image/upload/v1730294794/iPhone_15_Pro_Natural_1_dqawwf.webp",
+    "category_id": 1
+  },
+  {
+    "id": 3,
+    "name": "Iphone 16",
+    "price": 22190000,
+    "image": "https://res.cloudinary.com/dq5ajyj0q/image/upload/v1730294669/Apple-iPhone-16-Pro-hero-240909-lp.jpg.news_app_ed_kshco4.jpg",
+    "category_id": 1
+  },
+  {
+    "id": 4,
+    "name": "Samsung Galaxy A15",
+    "price": 4490000,
+    "image": "https://res.cloudinary.com/dq5ajyj0q/image/upload/v1730293690/Samsung_Galaxy_A15_Blue_Black_Hero_bk1vcw.webp",
+    "category_id": 1
+  },
+  {
+    "id": 5,
+    "name": "Samsung Note 20",
+    "price": 16599000,
+    "image": "https://res.cloudinary.com/dq5ajyj0q/image/upload/v1730293851/419VTYVRD1L._AC__xghn9u.jpg",
+    "category_id": 1
+  }
+]
